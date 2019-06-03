@@ -13,3 +13,5 @@
 ![Entering a Spam Message](https://github.com/kartiktanksali/Spam-Detection-NLP-Model---Flask-Naive-Bayes-spam-filtering/blob/master/3.png)
 
 ![Result of entering a Spam Message](https://github.com/kartiktanksali/Spam-Detection-NLP-Model---Flask-Naive-Bayes-spam-filtering/blob/master/4.png)
+
+Credits : www.medium.com
